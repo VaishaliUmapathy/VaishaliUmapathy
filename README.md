@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **andalvaishali2004@gmail.com**
 
+  /*github stats*/
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VaishaliUmapathy&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+
 
 
 
