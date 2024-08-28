@@ -35,6 +35,8 @@
 ### About Me
 I am passionate about creating beautiful and functional web applications. I enjoy learning new technologies and tackling challenging problems. Outside of coding, I love [your hobbies].
 
+### Coding
+completed some of the problem at Codekata,webkata practicing in Freecodecamp and GUVI 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
