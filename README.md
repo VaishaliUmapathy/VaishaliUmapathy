@@ -65,8 +65,7 @@ A web application to manage tourist information and bookings. Built using **HTML
 
 - I actively participate in **CodeKata** challenges.
 - Continuously learning and practicing through **freeCodeCamp** and **GUVI**.
-- Interested in **VLSI** and **Digital Electronics** alongside my web development journey.
-
+-  As a beginer contnous to learn the AWS
 ---
 
 ## 🌟 Hobbies
