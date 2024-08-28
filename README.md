@@ -31,7 +31,9 @@ A front-end project replicating the look and feel of Netflix using **HTML**, **C
 A machine learning project predicting the lifespan of mobile phones. Technologies used: **Python**, **scikit-learn**.
 
 ### [Tourist Management System](https://github.com/VaishaliUmapathy/tourist-management)
-A web application to manage tourist information and bookings. Built using **HTML**, **CSS**, **JavaScript**, and **Python**.
+A web application to manage tourist information and bookings. Built using **HTML**, **CSS**, **JavaScript**, and **PHP**.
+### [PortFolio](https://github.com/VaishaliUmapathy/portfolio)
+My Own portfolio website was designed by Me .Technology used **HTML**, **CSS**, **JS**.
 
 ---
 
