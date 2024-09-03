@@ -16,9 +16,7 @@
 - 📚 I’m actively working on my coding skills through **CodeKata** and **GUVI**.
 - 🎓 I've attended workshops at **IIT Chennai** and **NIT Trichy**.
 - 🏆 Achievements:
-  - Developed a replica of the Netflix homepage.
-  - 2nd prize winner in a paper presentation on **Loan Eligibility Prediction**.
-- 👨‍💻 Check out my portfolio: [My Portfolio](https://vaishaliumapathy.000webhostapp.com/)
+  - 👨‍💻 Check out my portfolio: [My Portfolio](https://vaishaliumapathy.000webhostapp.com/)
 
 ---
 
@@ -33,7 +31,7 @@ A machine learning project predicting the lifespan of mobile phones. Technologie
 ### [Tourist Management System](https://github.com/VaishaliUmapathy/tourist-management)
 A web application to manage tourist information and bookings. Built using **HTML**, **CSS**, **JavaScript**, and **PHP**.
 ### [PortFolio](https://github.com/VaishaliUmapathy/portfolio)
-My Own portfolio website was designed by Me .Technology used **HTML**, **CSS**, **JS**.
+My Own portfolio website was designed by Me.Technology used **HTML**, **CSS**, **JS**.
 
 ---
 
@@ -67,7 +65,7 @@ My Own portfolio website was designed by Me .Technology used **HTML**, **CSS**, 
 
 - I actively participate in **CodeKata** challenges.
 - Continuously learning and practicing through **freeCodeCamp** and **GUVI**.
--  As a beginer contnous to learn the AWS
+-  As a beginner continous to learn the AWS
 ---
 
 ## 🌟 Hobbies
