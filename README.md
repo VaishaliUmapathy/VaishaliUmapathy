@@ -16,7 +16,7 @@
 - 📚 I’m actively working on my coding skills through **CodeKata** and **GUVI**.
 - 🎓 I've attended workshops at **IIT Chennai** and **NIT Trichy**.
 - 🏆 Achievements:
-  - 👨‍💻 Check out my portfolio: [My Portfolio](https://vaishaliumapathy.000webhostapp.com/)
+  - 👨‍💻 Check out my portfolio: [My Portfolio](https://vaishaliumapathy.netlify.app/)
 
 ---
 
