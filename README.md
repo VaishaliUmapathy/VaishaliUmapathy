@@ -7,10 +7,6 @@
 
 ---
 
-
-
-
----
 # 💫 About Me:
 I’m a Computer Science undergraduate<br> I love working on projects that combine front-end creativity with back-end logic.
   - 👨‍💻 Check out my portfolio: [My Portfolio](https://vaishaliumapathy.github.io/)
